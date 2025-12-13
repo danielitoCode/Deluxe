@@ -1,6 +1,4 @@
 
-![Mobile](https://fra.cloud.appwrite.io/v1/storage/buckets/690974f9002e9a9c5049/files/693de50e00388cee57e7/view?project=68fd82470024761abb8c&mode=admin)
-
 
 # DELUXE
 
@@ -11,6 +9,8 @@
 
 
 Pensado y desarrollado para exponer los productos de una pequeña joyeria
+
+![Mobile](https://fra.cloud.appwrite.io/v1/storage/buckets/690974f9002e9a9c5049/files/693de50e00388cee57e7/view?project=68fd82470024761abb8c&mode=admin)
 
 ## Elementos del proyecto
 
